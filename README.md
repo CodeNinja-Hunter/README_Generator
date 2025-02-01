@@ -14,7 +14,7 @@ Run `node index.js` and follow the prompts.
 ## Demo
 Here is a demo video showing how to use the application:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HQ/default.jpg)]
+[![Demo Video](https://drive.google.com/file/d/14t-rKkh3xdprOVkHnQlS0D6lza50dNYv/view?usp=sharing)]
 
 ## License
 This project is licensed under the MIT license.
