@@ -1,24 +1,24 @@
-
 # README_Generator
 
 ## Description
-This is a command-line app using the Inquirer package to create a README.md.
+This is a command line app to create a README.md.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/repo.git` 
-2. Navigate to the project directory: `cd repo` 
-3. Install dependencies: `npm install`
+1. Clone the repository: `git clone https://github.com/username/repo.git`
+2. Navigate to the project directory: `cd repo`
+3. Install dependencies: `npm install`.
 
 ## Usage
-To use this project, run node index.js and follow the prompts.
+Run `node index.js` and follow the prompts.
 
-## Video Demo
-[![Watch the video]()]
+## Demo
+Here is a demo video showing how to use the application:
+
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HQ/default.jpg)]
 
 ## License
 This project is licensed under the MIT license.
 
 ## Questions
-If you have any questions, you can contact me at [user@example.com](mailto:user@example.com).
-You can also find more of my work at [CodeNinja-Hunter](https://github.com/CodeNinja-Hunter).
-  
+If you have any questions, you can contact me at [test@email.com](mailto:test@email.com).
+You can also find more of my work at [Username](https://github.com/Username).
